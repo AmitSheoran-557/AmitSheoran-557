@@ -19,7 +19,7 @@ I love working on side projects, contributing to open-source, and solving fronte
 
 ## 📫 Let's Connect
 - 💼 [Portfolio Website](https://portfolio-five-omega-54.vercel.app/) 
-- 💼 [LinkedIn]("https://www.linkedin.com/in/amit-sheoran-13254a364/")
+- 💼 [LinkedIn](https://www.linkedin.com/in/amit-sheoran-13254a364/)
 - 📩 Reach me: amit22082006@gmail.com
 
 ---
